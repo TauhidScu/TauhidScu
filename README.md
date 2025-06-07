@@ -116,7 +116,11 @@
 
 - **FAOT-Net: A 1.5-Stage Framework for 3D Pelvic Lymph Node Detection**  
   _IEEE Transactions on Medical Imaging, 2024_  
-  🔗 [DOI](https://doi.org/10.1109/TMI.2023.3329464)
+  🔗 [DOI](https://doi.org/10.1109/TMI.2023.3329464
+        
+        
+        
+        )
 
 - **Dual encoding feature filtering generalized attention UNET for retinal vessel segmentation**  
   _Journal of Sichuan University (Natural Science), 2024_
@@ -124,14 +128,18 @@
 
 - **SETFF: Semantic Enhanced Table Filling Framework**  
   _Springer LNCS Chapter, 2022_  
-  🔗 [Link](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_13)
+  🔗 [Link](https://link.springer.com/chapter/10.1007/978-3-031-20865-2_13
+        
+        
+        
+        )
 
 ---
 
 ## 🚀 Projects
 
 - [COVID-19 Predictor](https://github.com/TauhidScu/COVID-19-Predictor)  
-- Retinal Blood Vessel Segmentation *(Repo Private)*  
+- [Retinal Blood Vessel Segmentation](https://github.com/TauhidScu/COVID-19-Predictor) 
 - SETFF - NLP Table Filling *(Repo Upcoming)*
 
 ---
