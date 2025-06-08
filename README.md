@@ -1,3 +1,7 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dual-encoding-feature-filtering-generalized/retinal-vessel-segmentation-on-hrf)](https://paperswithcode.com/sota/retinal-vessel-segmentation-on-hrf?p=dual-encoding-feature-filtering-generalized)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dual-encoding-feature-filtering-generalized/retinal-vessel-segmentation-on-drive)](https://paperswithcode.com/sota/retinal-vessel-segmentation-on-drive?p=dual-encoding-feature-filtering-generalized)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dual-encoding-feature-filtering-generalized/retinal-vessel-segmentation-on-stare)](https://paperswithcode.com/sota/retinal-vessel-segmentation-on-stare?p=dual-encoding-feature-filtering-generalized)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dual-encoding-feature-filtering-generalized/retinal-vessel-segmentation-on-chase_db1)](https://paperswithcode.com/sota/retinal-vessel-segmentation-on-chase_db1?p=dual-encoding-feature-filtering-generalized)
 <h1 align="center">🧠 MD TAUHIDUL ISLAM</h1>
 <p align="center">
   <em>Ph.D. Researcher | Deep Learning & AI in Medical Imaging | Python Enthusiast | Educator</em><br>
